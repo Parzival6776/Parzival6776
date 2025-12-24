@@ -1,4 +1,4 @@
- [![MasterHead](https://images.pexels.com/photos/3593986/pexels-photo-3593986.jpeg)
+![MasterHead](https://images.pexels.com/photos/3593986/pexels-photo-3593986.jpeg)
 <h1 align="center">Merhaba 👋, ben Selim KURUYAMAÇ</h1>
 <h3 align="center">Türkiye'den tutkulu bir bağımsız oyun geliştiricisiyim</h3>
 
