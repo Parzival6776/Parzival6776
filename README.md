@@ -1,4 +1,4 @@
- [![MasterHead](https://gamerant.com/elden-ring-video-shows-off-the-games-many-environments/)
+ [![MasterHead](https://techraptor.net/sites/default/files/2022-02/Elden%20Ring%20Featured%20Image.jpg)
 <h1 align="center">Merhaba 👋, ben Selim KURUYAMAÇ</h1>
 <h3 align="center">Türkiye'den tutkulu bir bağımsız oyun geliştiricisiyim</h3>
 
